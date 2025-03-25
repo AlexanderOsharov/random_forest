@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="random_forest",
-    version="0.1",
+    version="0.1.0",
     author="Alexander Osharov",
     author_email="sashosharov@gmail.com",
     description="A simple RandomForest implementation in Python",
